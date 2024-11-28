@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\bin\Debug\net9.0\Chuyendoinhietdo.exe
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\bin\Debug\net9.0\Chuyendoinhietdo.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\bin\Debug\net9.0\Chuyendoinhietdo.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\bin\Debug\net9.0\Chuyendoinhietdo.dll
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\bin\Debug\net9.0\Chuyendoinhietdo.pdb
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\obj\Debug\net9.0\Chuyendoinhietdo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\obj\Debug\net9.0\Chuyendoinhietdo.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\obj\Debug\net9.0\Chuyendoinhietdo.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\obj\Debug\net9.0\Chuyendoinhietdo.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\obj\Debug\net9.0\Chuyendoinhietdo.dll
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\obj\Debug\net9.0\refint\Chuyendoinhietdo.dll
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\obj\Debug\net9.0\Chuyendoinhietdo.pdb
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\obj\Debug\net9.0\Chuyendoinhietdo.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 7 - Hàm và Phương Thức\Thực Hành\Chuyendoinhietdo\obj\Debug\net9.0\ref\Chuyendoinhietdo.dll
